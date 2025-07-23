@@ -11,8 +11,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata = {
-  title: "My Next.js App",
-  description: "A simple Next.js application with custom layout",
+  title: "Brxle0 Portfolio",
+  description: "Simple Portfolio",
 };
 
 export default function RootLayout({ children }) {
